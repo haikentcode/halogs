@@ -1,0 +1,7 @@
+setup.py
+halogs/__init__.py
+halogs.egg-info/PKG-INFO
+halogs.egg-info/SOURCES.txt
+halogs.egg-info/dependency_links.txt
+halogs.egg-info/not-zip-safe
+halogs.egg-info/top_level.txt
