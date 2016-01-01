@@ -3,11 +3,8 @@ Python Application to store log
 
 
 script to use
-
-#!/usr/bin/env python
+`<#!/usr/bin/env python
 from halogs import halogs as ha
-
-`<code>`
 import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("-w", "--write", help="write log to logfile")
@@ -35,5 +32,4 @@ if args.read:
 if args.clear:
     logfile=args.clear
     hk=ha.log(logfile)
-    hk.deleteAllLogs(logfile)
-`<code>`
+    hk.deleteAllLogs(logfile)>`
