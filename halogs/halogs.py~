@@ -12,14 +12,13 @@ class log:
         self.logFileName=logFileName
         self.client = MongoClient()
         self.db=self.client.halogs # data_base for written all logs
-        if logFileName:
-          self.logFile= self.db[self.logFileName]
+        self.logFile= self.db[self.logFileName]
 
 
     def  writeLog(self,title,txt,by="HAIOS"): # write log to specific log
-         'title text by'
+        'title text by'
          logObj={
-
+                   
                    "title":title,
                    "txt":txt,
                    "date": datetime.datetime.utcnow(),
