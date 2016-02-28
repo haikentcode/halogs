@@ -1,4 +1,22 @@
 # halogs
+
+for use in terminal halogs following use following python script
+eg. of commange for following script
+
+````
+>>halogs -h  # for help documentation
+
+>>halogs -r logsFileName  # list all logs in file
+
+>>halogs -lf  # list all logs File Name
+
+>>halogs -w logFileName #  to write log
+Title:haikent
+Text:this testing
+By:hitesh
+````
+
+
 ```python
 from halogs import halogs as ha
 
