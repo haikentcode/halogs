@@ -1,5 +1,5 @@
 # halogs
-
+```python
 from halogs import halogs as ha
 
 import argparse
@@ -30,3 +30,4 @@ if args.clear:
     logfile=args.clear
     hk=ha.log(logfile)
     hk.deleteAllLogs(logfile)
+```
