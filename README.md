@@ -1,7 +1,8 @@
 # halogs
 
-for use in terminal halogs following use following python script
+for use halogs in terminal use following python script
 eg. of commange for following script
+
 
 ````
 >>halogs -h  # for help documentation
@@ -16,6 +17,8 @@ Text:this testing
 By:hitesh
 ````
 
+
+#Python Script
 
 ```python
 from halogs import halogs as ha
