@@ -1,9 +1,10 @@
 # halogs
 
 ````
-Python Project To Store logs in log file .This is helpful when you are working on some project and  
-want to keep some information somewhere , so it's easy to use halogs and then open terminal and
-by using one or two commands , store useful information and access stored information easily through  terminal
+Python Project To Store logs in log file .This is helpful when you are
+working on some project and want to keep some information somewhere ,
+so it's easy to use halogs and then open terminal and by using one or two commands ,
+store useful information and access stored information easily through  terminal
 Technology  used in this Project are (Python Programming language and Mongodb for Database )
 ````
 
