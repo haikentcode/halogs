@@ -1,9 +1,9 @@
 # halogs
 
-Uset given Python Script For use halogs in Command Line(Terminal) 
+Uset given Python Script For use halogs in Command Line(Terminal)
 
 
-````
+````bash
 >>halogs -h  # for help documentation
 
 >>halogs -r logsFileName  # list all logs in file
