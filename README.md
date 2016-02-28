@@ -1,7 +1,6 @@
 # halogs
 
-for use halogs in terminal use following python script
-eg. of commange for following script
+Uset given Python Script For use halogs in Command Line(Terminal) 
 
 
 ````
