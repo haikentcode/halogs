@@ -8,7 +8,7 @@ store useful information and access stored information easily through  terminal
 Technology  used in this Project are (Python Programming language and Mongodb for Database )
 ````
 
-Uset given Python Script For use halogs in Command Line(Terminal)
+Use given Python Script For use halogs in Command Line(Terminal)
 
 
 ````bash
